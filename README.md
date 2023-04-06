@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@scottxbrown.com**
 
-- 📄 Know about my experiences [https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf)
+- 📄 Learn about my experience [here](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
