@@ -5,11 +5,11 @@
 
 - 👨‍💻 Portfolio available here: [https://www.scottxbrown.com](https://www.scottxbrown.com)
 
-- 💬 Talk with me about: **Any junioe developer positions your company may have**
-
 - 📫 Reach me here: **hello@scottxbrown.com**
 
 - 📄 Resume available here: [resume](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf)
+
+- 💬 Talk with me about: **Any junior developer positions your company may have**
 
 ***
 
