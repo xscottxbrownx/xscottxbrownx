@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scott</h1>
 <h3 align="center">A frontend developer from Portland, OR</h3>
 
+###
 
 - 👨‍💻 My portfolio is available here: [https://www.scottxbrown.com](https://www.scottxbrown.com)
 
