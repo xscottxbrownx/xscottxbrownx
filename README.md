@@ -3,13 +3,13 @@
 
 ***
 
-- 👨‍💻 My portfolio is available here: [https://www.scottxbrown.com](https://www.scottxbrown.com)
+- 👨‍💻 Portfolio available here: [https://www.scottxbrown.com](https://www.scottxbrown.com)
 
-- 💬 Ask me about: **React**
+- 💬 Talk with me about: **Any junioe developer positions your company may have**
 
 - 📫 Reach me here: **hello@scottxbrown.com**
 
-- 📄 Learn about my experience [here](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf)
+- 📄 Resume available here: [resume](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf)
 
 ***
 
