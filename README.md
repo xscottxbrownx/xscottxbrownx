@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Scott</h1>
-<h3 align="center">FRONTEND DEVELOPER from Portland, OR</h3>
+<h3 align="center">Frontend Developer from Portland, OR</h3>
 
 ***
 
