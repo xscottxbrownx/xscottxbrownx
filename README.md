@@ -7,7 +7,7 @@
 
 - 📫 Reach me here: **hello@scottxbrown.com**
 
-- 📄 Resume available here: [resume](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.d2f2db7a5a2292557a74.pdf)
+- 📄 Resume available here: [resume](https://www.scottxbrown.com/static/media/Scott_Brown_Resume.0f09bcd00a1372529e4a.pdf)
 
 - 💬 Talk with me about: **Any junior developer positions your company may have**
 
